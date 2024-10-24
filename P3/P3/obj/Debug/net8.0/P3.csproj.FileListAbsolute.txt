@@ -1,0 +1,14 @@
+C:\Users\ARYA\source\repos\P3\P3\bin\Debug\net8.0\P3.exe
+C:\Users\ARYA\source\repos\P3\P3\bin\Debug\net8.0\P3.deps.json
+C:\Users\ARYA\source\repos\P3\P3\bin\Debug\net8.0\P3.runtimeconfig.json
+C:\Users\ARYA\source\repos\P3\P3\bin\Debug\net8.0\P3.dll
+C:\Users\ARYA\source\repos\P3\P3\bin\Debug\net8.0\P3.pdb
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.dll
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\refint\P3.dll
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.pdb
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\P3.genruntimeconfig.cache
+C:\Users\ARYA\source\repos\P3\P3\obj\Debug\net8.0\ref\P3.dll
